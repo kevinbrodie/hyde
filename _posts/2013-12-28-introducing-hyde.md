@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Test math"
-author: Haixing Hu
+author: KB
 category: misc
 tags: [test]
 use_math: true
