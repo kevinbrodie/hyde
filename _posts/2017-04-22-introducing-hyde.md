@@ -9,7 +9,7 @@ use_math: true
 
 Let's test some inline math $x$, $y$, $x_1$, $y_1$.
 
-Now a inline math with special character: $|\psi\rangle$, $x'$, $x^*$.
+Now a inline math with special character: $|\psi\rangle$, $x'$, $x^2$.
 
 Test a display math:
 $$
@@ -34,10 +34,10 @@ Is it O.K.?
 
 And test a display math without equaltion number:
 $$
-  \begin{align\*}
+  \begin{align}
     |\psi_1\rangle &= a|0\rangle + b|1\rangle \\
     |\psi_2\rangle &= c|0\rangle + d|1\rangle
-  \end{align\*}
+  \end{align}
 $$
 Is it O.K.?
 
